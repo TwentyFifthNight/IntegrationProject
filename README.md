@@ -72,6 +72,7 @@ Jeśli systemowe login i hasło użytkownika bazy różnią się od tych w pliku
 3. Upewnić się, że w folderze Assets serwera znajduje się plik o nazwie Statystyki.xml wygenerowany przez konwerter na podstawie danych z podanego źródła na temat zanieczyszczeń powietrza.
 4. Upewnić się że każdy z serwisów posiada wymienione wyżej zależności.
 5. Włączyć wszystkie serwisy (SoapServer, Server, Client).
+6. Po uruchomieniu klienta można zalogować się na jedno ze stworzonych kont wpisując nazwę województwa jako login i hasło.
 
 Serwer działa na porcie 8080, a serwer Soap na porcie 7779. Baza MySQL powinna działać na porcie 3306. W przypadku innego portu należy zmienić konfigurację w pliku persistence.xml.
 
