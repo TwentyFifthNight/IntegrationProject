@@ -10,7 +10,7 @@ Server(ASP.NET Core):
 * .NET version: .NET 6.0
 
 SoapServer(Java):
-* JDK version: 16.0.2 (https://jdk.java.net/archive/)
+* [JDK version: 16.0.2](https://jdk.java.net/archive/)
 * PHP version: 8.1.10
 
 Client(Windows Forms App):
